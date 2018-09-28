@@ -1,6 +1,6 @@
 Veles Core integration/staging repository
 =====================================
-https://files.fm/u/87wuk3qa
+https://files.fm/u/u6ys2s88
 [![Build Status](https://travis-ci.org/PIVX-Project/PIVX.svg?branch=master)](https://travis-ci.org/PIVX-Project/PIVX) [![GitHub version](https://badge.fury.io/gh/PIVX-Project%2FPIVX.svg)](https://badge.fury.io/gh/PIVX-Project%2FPIVX)
 
 Veles is an open source crypto-currency focused on fast private transactions with low transaction fees & environmental footprint.  It utilizes a custom Proof of Stake protocol for securing its network and uses an innovative variable seesaw reward mechanism that dynamically balances 74% of its block reward size between masternodes and staking nodes and 24% dedicated for staking(2% Dev-fun). 
